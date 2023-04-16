@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeedCode", "LeedCode\LeedCode.csproj", "{50706B0B-24BC-4884-B8F1-12AEE54B48F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeedCode.Benchmark", "LeedCode.Benchmark\LeedCode.Benchmark.csproj", "{B60F71D1-A3FD-481D-A6FA-BD11C791FD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeedCode.Tests", "LeedCode.Tests\LeedCode.Tests.csproj", "{90BFCB75-5242-497A-954A-8ACF8A288CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50706B0B-24BC-4884-B8F1-12AEE54B48F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50706B0B-24BC-4884-B8F1-12AEE54B48F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50706B0B-24BC-4884-B8F1-12AEE54B48F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50706B0B-24BC-4884-B8F1-12AEE54B48F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60F71D1-A3FD-481D-A6FA-BD11C791FD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60F71D1-A3FD-481D-A6FA-BD11C791FD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60F71D1-A3FD-481D-A6FA-BD11C791FD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60F71D1-A3FD-481D-A6FA-BD11C791FD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BFCB75-5242-497A-954A-8ACF8A288CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BFCB75-5242-497A-954A-8ACF8A288CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BFCB75-5242-497A-954A-8ACF8A288CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BFCB75-5242-497A-954A-8ACF8A288CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

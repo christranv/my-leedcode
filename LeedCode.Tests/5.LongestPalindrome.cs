@@ -4,7 +4,7 @@ namespace LeedCode.Tests;
 
 public class LongestPalindromeTest
 {
-    // [Theory]
+    [Theory]
     [InlineData("babad", "aba")]
     [InlineData("cbbd", "bb")]
     [InlineData("ccc", "ccc")]

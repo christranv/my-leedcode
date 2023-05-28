@@ -1,4 +1,5 @@
 using BenchmarkDotNet.Attributes;
+using LeedCode.Dtos;
 using LeedCode.Leedcode;
 
 namespace LeedCode.Benchmark;

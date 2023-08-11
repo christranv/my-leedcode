@@ -1,3 +1,4 @@
 ﻿using LeedCode.Leedcode;
 
-Console.WriteLine(new Divide2Int().Divide(10,3));
+
+// var arr = new[] { 4, 5, 6, 7, 0, 1, 2 };
